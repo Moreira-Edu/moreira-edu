@@ -5,7 +5,7 @@
 - 👯 `I’m looking to collaborate on:` _Open Source Projects_; _SPA Pages_; _WEB APIS_; _Micro Services_
 - 🤔 `I’m looking for help with:` _JWT_; _TDD_; _Spring Boot_
 - 💬 `Ask me about:` _Books_; _French and English learning_; _JS algorithms_
-- 📫 `How to reach me:` [_Linktree_](https://linktr.ee/edu_moreira)
+- 📫 `How to reach me:` <a href="https://linktr.ee/edu_moreira" target="_blank">Linktree</a>
 - 😄 `Pronouns:` _He/His_
 
 #
