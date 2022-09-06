@@ -8,6 +8,7 @@
 - 📫 `How to reach me:` <a href="https://linktr.ee/edu_moreira" target="_blank">Linktree</a>
 - 😄 `Pronouns:` _He/His_
 
+
 #
 
 <div align='center'>
